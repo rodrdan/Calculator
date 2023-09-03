@@ -1,0 +1,2 @@
+# Calculator
+Spring Boot application
