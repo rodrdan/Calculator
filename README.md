@@ -1,2 +1,2 @@
 # Calculator
-Spring Boot application
+Spring Boot / MVC application, templates created with Thymeleaf
